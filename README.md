@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://sd-backend.jwalu12.repl.co) here!!
 1. Git Clone
 
 ```
-https://github.com/jwalu12/SmoothyClub.git
+https://github.com/jwalu12/smoothy-sd
 ```
 
 2. Backend setting
